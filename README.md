@@ -1,2 +1,1 @@
-# autoszerelos
-# autoszerelos
+# Mi a faszt csinálok?
